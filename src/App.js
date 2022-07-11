@@ -1,4 +1,4 @@
-import './App.css'
+import './App.scss'
 
 import { CssBaseline, Grid } from '@mui/material'
 import Header from './components/Header'
